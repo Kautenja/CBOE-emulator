@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['seed_439',['seed',['../namespace_maths_1_1_probability.html#a30ebd8972b78ff629f0d4cfced420595',1,'Maths::Probability']]],
+  ['send_440',['send',['../class_data_feed_1_1_sender.html#a75b5156cc0dd17795df5cad22b58c552',1,'DataFeed::Sender::send()'],['../class_order_entry_1_1_client.html#a50814320474c37035d82336e29fa0a29',1,'OrderEntry::Client::send()']]],
+  ['send_5fsync_441',['send_sync',['../class_order_entry_1_1_client.html#a8f1ee4c09e1dd658349db6c5f47717f2',1,'OrderEntry::Client']]],
+  ['sender_442',['Sender',['../class_data_feed_1_1_sender.html#a98471e2dc329d504f226967d58b484d0',1,'DataFeed::Sender']]],
+  ['server_443',['Server',['../class_order_entry_1_1_server.html#aebb747eb15b33b366819eafb65ddea70',1,'OrderEntry::Server']]],
+  ['servercli_444',['ServerCLI',['../class_order_entry_1_1_handlers_1_1_server_c_l_i.html#a8b9b4064893e8e407c1ed084ccc47b4a',1,'OrderEntry::Handlers::ServerCLI']]],
+  ['serverheartbeat_445',['ServerHeartbeat',['../class_order_entry_1_1_extensions_1_1_server_heartbeat.html#a995e013fa21fae906b331fa9fe50adf7',1,'OrderEntry::Extensions::ServerHeartbeat']]],
+  ['set_5falpha_446',['set_alpha',['../struct_maths_1_1_exponential_moving_average.html#a28bad7d14ecc6061279501cc64d48c39',1,'Maths::ExponentialMovingAverage::set_alpha()'],['../struct_maths_1_1_exponential_moving_variance.html#a0e1634f1e7f3dd8f42131b57f084c712',1,'Maths::ExponentialMovingVariance::set_alpha()']]],
+  ['set_5fbest_447',['set_best',['../namespace_data_feed_1_1_l_o_b.html#ae2d7b99c0305f9e0259a21e91f32e19a',1,'DataFeed::LOB::set_best()'],['../namespace_order_entry_1_1_l_o_b.html#a77162f1a1b2f67ba410b8d190c885f61',1,'OrderEntry::LOB::set_best()']]],
+  ['set_5fbest_3c_20side_3a_3abuy_20_3e_448',['set_best&lt; Side::Buy &gt;',['../namespace_data_feed_1_1_l_o_b.html#a4de4f06619e9b598d8b14fc8b5eaf931',1,'DataFeed::LOB::set_best&lt; Side::Buy &gt;()'],['../namespace_order_entry_1_1_l_o_b.html#a3f965530b0772089bd81352cda3ed1fd',1,'OrderEntry::LOB::set_best&lt; Side::Buy &gt;()']]],
+  ['set_5fbest_3c_20side_3a_3asell_20_3e_449',['set_best&lt; Side::Sell &gt;',['../namespace_data_feed_1_1_l_o_b.html#a41898e67e9e099679aa40363c269ab4e',1,'DataFeed::LOB::set_best&lt; Side::Sell &gt;()'],['../namespace_order_entry_1_1_l_o_b.html#a62a64354a8b660f7434ac78b6adc16b4',1,'OrderEntry::LOB::set_best&lt; Side::Sell &gt;()']]],
+  ['set_5fcapital_450',['set_capital',['../class_order_entry_1_1_client.html#aac46cb4fa1810ccd37b88974579b10bb',1,'OrderEntry::Client']]],
+  ['set_5foutbound_5finterface_451',['set_outbound_interface',['../class_data_feed_1_1_sender.html#a61f2cc0760d5256edce67ce16eed23e6',1,'DataFeed::Sender']]],
+  ['set_5fshares_452',['set_shares',['../class_order_entry_1_1_client.html#a09adfe92074b7169cba12971c946d863',1,'OrderEntry::Client']]],
+  ['set_5fttl_453',['set_ttl',['../class_data_feed_1_1_sender.html#a92eacb51b5cb114266430cee009522b1',1,'DataFeed::Sender']]],
+  ['side_5fto_5fbool_454',['side_to_bool',['../namespace_data_feed.html#a2a7680f3ee5b007424cd247ea43f4c9b',1,'DataFeed::side_to_bool()'],['../namespace_order_entry.html#a6def91bd9b62142224ad88efa34683e5',1,'OrderEntry::side_to_bool()']]],
+  ['side_5fto_5fdouble_455',['side_to_double',['../namespace_data_feed.html#a234ee829bb7d443f74212a34ccc27a0b',1,'DataFeed::side_to_double()'],['../namespace_order_entry.html#ae3575370c6801243363ddabbd83f46a1',1,'OrderEntry::side_to_double()']]],
+  ['side_5fto_5flob_5fside_456',['side_to_LOB_side',['../namespace_data_feed.html#ae17974e5832dc305b5c5ff5cd7eb59fa',1,'DataFeed::side_to_LOB_side()'],['../namespace_order_entry.html#a7451af0b02a22bdd25dc0d4c878fd113',1,'OrderEntry::side_to_LOB_side()']]],
+  ['size_457',['size',['../class_order_entry_1_1_authorizer.html#ab5f2281953895b4ccb97c0885f5095fa',1,'OrderEntry::Authorizer']]],
+  ['start_458',['start',['../class_order_entry_1_1_connection.html#af39a12281de5d80f7e6447c18c867dbf',1,'OrderEntry::Connection']]],
+  ['startofsession_459',['StartOfSession',['../struct_data_feed_1_1_messages_1_1_start_of_session.html#a2ffbb9d503335c521bbfb99218c38b15',1,'DataFeed::Messages::StartOfSession']]],
+  ['systemaccount_460',['SystemAccount',['../struct_order_entry_1_1_system_account.html#a404fc4939e286ecac7274fa34e7f9f5c',1,'OrderEntry::SystemAccount::SystemAccount()'],['../struct_order_entry_1_1_system_account.html#a42c268a1696ed731f0a9f9bffc69fc70',1,'OrderEntry::SystemAccount::SystemAccount(const std::string &amp;username_, const std::string &amp;password_)'],['../struct_order_entry_1_1_system_account.html#af9b1e9a35b7604c4c01943f9316f4e82',1,'OrderEntry::SystemAccount::SystemAccount(Handler *handler_)']]]
+];
