@@ -2,8 +2,8 @@
 
 [![Build Status][BuildStatus]][CIServer]
 
-[CIServer]: https://travis-ci.com/Kautenja/networked-market-simulator
-[BuildStatus]: https://travis-ci.com/Kautenja/networked-market-simulator.svg?token=FCkX2qMNHzx2qWEzZZMP&branch=master
+[CIServer]: https://travis-ci.com/Kautenja/CBOE-emulator
+[BuildStatus]: https://travis-ci.com/Kautenja/CBOE-emulator.svg?token=FCkX2qMNHzx2qWEzZZMP&branch=master
 
 This project implements the limit order book as an application on top of the
 network stack using protocols modeled after those deployed by
