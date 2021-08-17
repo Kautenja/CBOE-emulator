@@ -1,0 +1,7 @@
+notes/* linguist-vendored
+vendor/* linguist-vendored
+html/* linguist-vendored
+docs/* linguist-vendored
+json/* linguist-vendored
+experiment/* linguist-vendored
+doxygen/* linguist-vendored

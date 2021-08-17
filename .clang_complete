@@ -1,0 +1,10 @@
+-Iinclude
+-Ivendor/asio/asio/include
+-Ivendor/binary-search-tree/include
+-Ivendor/Catch2/single_include/catch2
+-Ivendor/cpptqdm/include
+-Ivendor/doubly-linked-list/include
+-Ivendor/hopscotch_map/include
+-Ivendor/json/single_include
+-Ivendor/robin-map/include
+-Ivendor/sparse-map/include
